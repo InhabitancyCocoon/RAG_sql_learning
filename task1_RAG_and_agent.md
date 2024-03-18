@@ -1,0 +1,3 @@
+RAG(Retrieval Augmented Generation)，检索增强，是一种综合大模型生成能力、检索和外挂数据库的技术，意图追求大模型生成回答的时效性，可靠性以及溯源能力。
+LangChain是一个用于开发大模型驱动应用的框架，支持上下文和推理能力，LangChain提供一系列template，debug工具。
+Agent是一个利用语言模型（调用外部工具）来进行决策、推理以及执行任务的实体。
